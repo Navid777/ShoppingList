@@ -1,0 +1,33 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MakeNewListActivity" >
+
+    <Button
+        android:id="@+id/shopping_make_new_list_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="36dp"
+        android:layout_marginTop="74dp"
+        android:text="@string/shopping_make_new_list_button" />
+
+    <Button
+        android:id="@+id/shopping_review_categories"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="56dp"
+        android:layout_marginTop="36dp"
+        android:text="@string/shopping_review_categories" />
+
+    <Button
+        android:id="@+id/shopping_review_shopping_lists"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="37dp"
+        android:layout_marginTop="66dp"
+        android:text="@string/shopping_review_shopping_lists" />
+
+</RelativeLayout>

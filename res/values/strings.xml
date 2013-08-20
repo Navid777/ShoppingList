@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShoppingList</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main_page">MainPageActivity</string>
+    <string name="title_activity_make_new_list">MakeNewListActivity</string>
+    <string name="title_activity_shopping_list">ShoppingListActivity</string>
+    <string name="main_shopping_list_button">لیست خرید</string>
+    <string name="main_completed_shoppings_button">خریدهای انجام شده</string>
+    <string name="main_settings">تنظیمات</string>
+    <string name="main_guide">راهنما</string>
+    <string name="shopping_make_new_list_button">ایجاد لیست خرید جدید</string>
+    <string name="shopping_review_shopping_lists">مرور لیست های خرید</string>
+    <string name="shopping_review_categories">مرور اقلام و دسته بندی ها</string>
+
+</resources>
